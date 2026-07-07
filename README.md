@@ -3,11 +3,10 @@
      ================================================================ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Vigneshwaran%20P&fontSize=42&animation=twinkling" width="100%">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vigneshwaran%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Undergraduate%20%7C%20Aspiring%20Web%20%26%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Vigneshwaran+%F0%9F%91%8B;CSE+Undergraduate+%40+Muthayammal+College;Building+with+React.js+%26+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vigneshwaran%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Undergraduate%20%7C%20Aspiring%20Web%20and%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Vigneshwaran+%F0%9F%91%8B;CSE+Undergraduate+%40+Muthayammal+College;Building+with+React.js+and+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +16,7 @@
      ABOUT ME
      ================================================================ -->
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ```python
 class Vigneshwaran:
