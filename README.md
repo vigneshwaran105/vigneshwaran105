@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vigneshwaran%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Undergraduate%20%7C%20Aspiring%20Web%20%26%20Software%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Vigneshwaran+%F0%9F%91%8B;CSE+Undergraduate+%40+Muthayammal+College;Building+with+React.js+%26+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Vigneshwaran+%F0%9F%91%8B;CSE+Undergraduate+%40+Muthayammal+College;Building+with+React.js+%26+Node.js;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
      ABOUT ME
      ================================================================ -->
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
 
 ```python
 class Vigneshwaran:
@@ -56,7 +56,7 @@ print(me.motto())
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **Tools**
 
